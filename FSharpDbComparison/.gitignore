@@ -1,0 +1,7 @@
+mariadb_data
+output
+sqlserver-data
+
+.fake
+*.dll
+*.db*
