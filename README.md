@@ -2,6 +2,12 @@
 
 my F# memo, mainly Japanese
 
+## links
+
+- GitHub: [AlgorithmsAndDataStructureByFSharp](https://github.com/phasetr/AlgorithmsAndDataStructureByFSharp)
+- [`.NET`メモ](https://phasetr.com/archive/fc/pg/dotnet/)
+- [`Microsoft Azure`メモ](https://phasetr.com/archive/fc/pg/azure/)
+
 ## お役立ちライブラリ・調査対象メモ
 
 - バリデーションのライブラリ: [Validus](https://github.com/pimbrouwers/validus)
@@ -12,6 +18,6 @@ my F# memo, mainly Japanese
 - [Fun.Blazor](https://github.com/slaveOftime/Fun.Blazor)
 - [Bolero](https://github.com/fsbolero/bolero)
 
-## External
+## 記事
 
-- GitHub: [AlgorithmsAndDataStructureByFSharp](https://github.com/phasetr/AlgorithmsAndDataStructureByFSharp)
+- 2023-12-25 [FSM - Functional State Machines](https://talesfrom.dev/blog/fsm-functional-state-machines#final-state-machine)

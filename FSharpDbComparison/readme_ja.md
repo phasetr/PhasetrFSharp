@@ -29,6 +29,16 @@ Wlaschinの[関数型ドメインモデリング](https://tatsu-zine.com/books/d
 `Rider`で見ているとコードに色がついている部分があって問題が解決できない.
 とりあえず比較用の簡易実装としてはこのままで詳しくわかったら追記したい.
 
+### `DbFun`
+
+- [GitHub](https://github.com/jacentino/DbFun)
+
+>No custom query DSL enabled - just raw SQL.
+
+>There are also extensions for MS SQL, PostgreSQL and MySql (when using MySqlConnector) databases.It was tested against MS SqlServer, PostgreSQL, MySQL and SQLite.
+
+`SQLite`も使えるためいいかもしれない.
+
 ### `EF Core`
 
 - [EFCore.FSharp](https://efcore.github.io/EFCore.FSharp/)
