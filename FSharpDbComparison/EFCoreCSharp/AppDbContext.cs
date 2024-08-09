@@ -12,7 +12,7 @@ public class AppDbContext : DbContext
 
     protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
     {
-        optionsBuilder.UseSqlite("Data Source=efcore-csharp.tmp.db");
+        optionsBuilder.UseSqlite("Data Source=efcore-csharp.db");
     }
 
     protected override void OnModelCreating(ModelBuilder modelBuilder)

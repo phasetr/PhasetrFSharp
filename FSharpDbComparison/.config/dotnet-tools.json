@@ -7,6 +7,12 @@
       "commands": [
         "grate"
       ]
+    },
+    "dotnet-ef": {
+      "version": "8.0.7",
+      "commands": [
+        "dotnet-ef"
+      ]
     }
   }
 }
