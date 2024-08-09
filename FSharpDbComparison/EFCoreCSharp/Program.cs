@@ -1,4 +1,6 @@
 ﻿using EFCoreCSharp;
+using EFCoreCSharp.Data;
+using EFCoreCSharp.Entities;
 using Microsoft.EntityFrameworkCore;
 
 using var context = new AppDbContext();
@@ -6,7 +8,7 @@ context.Database.EnsureDeleted();
 context.Database.EnsureCreated();
 
 Console.WriteLine(File.Exists("efcore-csharp.db")
-    ? "Database file 'efcore-csharp.tmp.db' has been created successfully."
+    ? "Database file 'efcore-csharp.db' has been created successfully."
     : "Failed to create the database file 'efcore-csharp.db'.");
 
 // データの追加

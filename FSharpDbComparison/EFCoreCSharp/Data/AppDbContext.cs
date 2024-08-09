@@ -1,6 +1,7 @@
+using EFCoreCSharp.Entities;
 using Microsoft.EntityFrameworkCore;
 
-namespace EFCoreCSharp;
+namespace EFCoreCSharp.Data;
 
 public class AppDbContext : DbContext
 {
