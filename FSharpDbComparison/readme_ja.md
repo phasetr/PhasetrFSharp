@@ -25,6 +25,9 @@ Wlaschinの[関数型ドメインモデリング](https://tatsu-zine.com/books/d
 
 ### `Dapper.FSharp`
 
+- [GitHub](https://github.com/Dzoukr/Dapper.FSharp?tab=readme-ov-file),
+  [API Overview](https://github.com/Dzoukr/Dapper.FSharp?tab=readme-ov-file#api-overview)
+
 想像以上にはまってしまった.
 `Rider`で見ているとコードに色がついている部分があって問題が解決できない.
 とりあえず比較用の簡易実装としてはこのままで詳しくわかったら追記したい.
