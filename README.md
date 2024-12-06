@@ -16,8 +16,13 @@ my F# memo, mainly Japanese
 - テスト: [Expecto](https://github.com/haf/expecto)
 - [Giraffe](https://github.com/giraffe-fsharp/Giraffe)
 - [Felicity](https://github.com/cmeeren/Felicity)
-- [Fun.Blazor](https://github.com/slaveOftime/Fun.Blazor)
+- Fun.Blazor: [GitHub](https://github.com/slaveOftime/Fun.Blazor)
+    - [ドキュメントサイト](https://slaveoftime.github.io/Fun.Blazor.Docs/Docs/About)
 - [Bolero](https://github.com/fsbolero/bolero)
+- [Farmer](https://compositionalit.github.io/farmer/)
+- [HSG.Numerics](https://github.com/profhsgill/HSG.Numerics)
+- Oxpecker
+- [FableStarter](https://github.com/rastreus/FableStarter)
 
 ## 記事
 
